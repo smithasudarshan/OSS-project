@@ -1,0 +1,18 @@
+E207 - Questionnaires and advice
+--------------------------------
+
+This project requires 
+	- Advice has its own MVC
+	- Certain methods are moved to helper class
+	
+Existing bugs
+-------------
+Saving advice does not work, it always saves a blank advice.
+This bug is already existing in expertiza, and is not a part of the requirements for this project.
+However, we are working on resolving this.
+
+Team
+----
+Mythri Nagaraju, Unity ID -mmythri
+Sri Samyuktha Potluri, Unity ID - spotlur
+Smitha Kalkere Sudarshan, Unity ID - kkalker
